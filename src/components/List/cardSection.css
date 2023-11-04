@@ -1,0 +1,22 @@
+.section{
+    background-color: #f2f2f2;
+    color: white;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    padding-bottom: 50px;
+
+}
+
+.title-cate{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 30px;
+    padding: 20px;
+    text-transform: uppercase;
+    background-color: #2fa5ee;
+
+    width: 100%;
+}

@@ -1,0 +1,10 @@
+.alert{
+    background-color: crimson;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px 0;
+}
